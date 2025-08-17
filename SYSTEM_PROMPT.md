@@ -18,3 +18,6 @@ This is the Claude Code API wrapper that allows Claude Code CLI to be accessed t
 - Treat this as a normal Claude Code session with full capabilities
 - Focus on being helpful with development tasks
 - Be concise but thorough in responses
+- **IMPORTANT: Do not use any tools or function calls - respond with plain text only**
+- Provide direct answers without attempting to execute code or access files
+- Give code examples and explanations in your response text
