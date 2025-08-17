@@ -22,7 +22,7 @@ This project creates a FastAPI server that:
 
 ### Installation
 ```bash
-git clone https://github.com/awesomecoolraj/claude-code-api.git
+git clone https://github.com/nomadictuba2005/claude-code-api.git
 cd claude-code-api
 pip install fastapi uvicorn pydantic
 ```
@@ -237,7 +237,7 @@ MIT License - Use it however you want!
 
 ---
 
-**Made by [@awesomecoolraj](https://github.com/awesomecoolraj)**
+**Made by [@nomadictuba2005](https://github.com/nomadictuba2005)**
 
 *OpenAI-compatible Claude Code API since 2025* 🚀
 
